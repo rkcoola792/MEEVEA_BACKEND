@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Wireless Mouse",
+        "price": 25.99,
+        "description": "A sleek and ergonomic wireless mouse.",
+        "category": "Electronics",
+        "image": "https://example.com/images/wireless-mouse.jpg"
+    },
+    {
+        "name": "Bluetooth Speaker",
+        "price": 45.49,
+        "description": "Portable and high-quality Bluetooth speaker.",
+        "category": "Electronics",
+        "image": "https://example.com/images/bluetooth-speaker.jpg"
+    },
+    {
+        "name": "Running Shoes",
+        "price": 70.99,
+        "description": "Lightweight and comfortable running shoes.",
+        "category": "Footwear",
+        "image": "https://example.com/images/running-shoes.jpg"
+    },
+    {
+        "name": "Leather Wallet",
+        "price": 20.99,
+        "description": "Durable and stylish leather wallet.",
+        "category": "Accessories",
+        "image": "https://example.com/images/leather-wallet.jpg"
+    },
+    {
+        "name": "Gaming Keyboard",
+        "price": 89.99,
+        "description": "RGB backlit gaming keyboard with mechanical switches.",
+        "category": "Electronics",
+        "image": "https://example.com/images/gaming-keyboard.jpg"
+    },
+    {
+        "name": "Water Bottle",
+        "price": 15.99,
+        "description": "Reusable stainless steel water bottle.",
+        "category": "Kitchenware",
+        "image": "https://example.com/images/water-bottle.jpg"
+    },
+    {
+        "name": "Desk Lamp",
+        "price": 30.99,
+        "description": "Adjustable LED desk lamp with touch controls.",
+        "category": "Furniture",
+        "image": "https://example.com/images/desk-lamp.jpg"
+    },
+    {
+        "name": "Backpack",
+        "price": 55.99,
+        "description": "Durable and spacious backpack for all purposes.",
+        "category": "Bags",
+        "image": "https://example.com/images/backpack.jpg"
+    },
+    {
+        "name": "Headphones",
+        "price": 120.99,
+        "description": "Noise-canceling over-ear headphones.",
+        "category": "Electronics",
+        "image": "https://example.com/images/headphones.jpg"
+    },
+    {
+        "name": "Yoga Mat",
+        "price": 25.49,
+        "description": "Non-slip yoga mat with excellent cushioning.",
+        "category": "Fitness",
+        "image": "https://example.com/images/yoga-mat.jpg"
+    }
+]
